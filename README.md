@@ -6,8 +6,8 @@ Actualmente llevo seis ejercicios de los dieciocho que tendremos que realizar.
 Este ejercicio no fue más que una introducción a las herramientas que usaremos más adelante. Aquí aprendí a como usar un servidor local.
 ### Ejercicio dos - Párrafos
 En este ejercicio aprendí a usar unas nuevas etiquetas en los párrafos y en lo particular yo experimente con el css
-´´´
+```
 $<p id = "id1">Este es un <strong>párrafo importante</strong>.<br>Y este tiene <em>énfasis</em></p
 $<p id = "id2">Segundo párrafo para practicar</p>
-´´´
+```
 ![imagen de prueba](img/imagen2.jpg)
