@@ -15,4 +15,6 @@ En este ejercicio aprendí a insertar una imagen en un html. Es muy importante e
 Este fue sin lugar a duda mi favorito porque pude insertar el enlace a mi propio perfil de github. Como su nombre lo indica fue una combinación de todo lo anterior.
 ### Ejercicio seis - Secciones semánticas básicas 
 En este no entendí muy bien lo que hacia pero básicamente subdivide en secciones la pagina. Las subdivisiones son: cabecera, contenido y pie de pagina.
+### Index.html
+Aquí se añadió el índice donde se puede ubicar enlistados todos los ejercicios realizados. Como nota: Debo ver la forma de enlistarlos con una etiqueta html.
 #### Elaborado por: David Efraín José Ramos
