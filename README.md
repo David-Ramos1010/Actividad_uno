@@ -5,5 +5,14 @@ Actualmente llevo seis ejercicios de los dieciocho que tendremos que realizar.
 ### Ejercicio uno - Hola mundo
 Este ejercicio no fue más que una introducción a las herramientas que usaremos más adelante. Aquí aprendí a como usar un servidor local.
 ### Ejercicio dos - Párrafos
-En este ejercicio aprendí a usar unas nuevas etiquetas en los párrafos y en lo particular yo experimente con el css
+En este ejercicio aprendí a usar unas nuevas etiquetas en los párrafos y en lo particular yo experimente con el css.
 ![Diseño de parrafo](img/captura1.png)
+### Ejercicio tres - Enlaces simples
+Aquí aprendí a enlazar un párrafo a una página web externa. Me surgió la duda de si se puede poner 'href' y 'target' en un css.
+### Ejercicio cuatro - Imágenes básicas
+En este ejercicio aprendí a insertar una imagen en un html. Es muy importante especificar la carpeta donde se almacena la imagen y si esta es .jpg o png.
+### Ejercicio cinco - Combinación de texto e imagen 
+Este fue sin lugar a duda mi favorito porque pude insertar el enlace a mi propio perfil de github. Como su nombre lo indica fue una combinación de todo lo anterior.
+### Ejercicio seis - Secciones semánticas básicas 
+En este no entendí muy bien lo que hacia pero básicamente subdivide en secciones la pagina. Las subdivisiones son: cabecera, contenido y pie de pagina.
+#### Elaborado por: David Efraín José Ramos
