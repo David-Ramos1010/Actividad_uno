@@ -15,7 +15,7 @@
 			<p class = "subtitulo">¿Tienes dudas? Escríbenos y te responderemos en menos de 24 horas.</p>
 		</div>
 		<form class = "formulario">
-			<div class = "grupo-formulario"> <!--Esta sección de datos básicos->
+			<div class = "grupo-formulario"> 
 				<label for = "nombre">Nombre completo</label>
 				<input type = "text" id = "nombre" placeholder = "Ej: David Ramos" required>
 			</div>
@@ -29,7 +29,13 @@
 					<input type = "tel" id = "telefono" placeholder = "Ej: +52 951 1234 567"					
 				</div>
 			</div>
-			
+			<div class = "grupo-formulario">
+				<label for = "mensaje">Mensaje</label>
+				<textarea id = "mensaje" rows= "5" placeholder = "Escribe tu consulta..." required></textarea>
+			</div>
+			<button type = "submit" class = "boton-enviar">
+				Enviar Mensaje <span>→</span>
+			</button>
 		</form>
 	</body>
 </html>
