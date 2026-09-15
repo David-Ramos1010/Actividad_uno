@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "es">
+	<head>
+		<meta charset = "UTF-8">
+		<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+		<title>
+			Ejercicio diez - Celcius a Fahrenheit
+		</title>
+		<link rel = "stylesheet" href = "css/ejercicio10.css">
+		<script src = "js/ejercicio10.js"></script>
+		<link href = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel = "stylesheet"> <!--Tengo la duda de que hace esta api-->
+	</head>
+	<body>
+		<div class = "contenedor-formulario">
+			<h1>Convertidor de grados Celcius a grados Fahrenheit</h1>
+			<p class = "subtitulo">Asegurate que el campo de texto no este vacio y que el valor ingresado sea numerico.</p>
+			<form class = "formulario">
+
+				<div class = "grupo-doble">
+					<div class = "grupo-formulario">
+						<label for = "num1">Grados Celcius</label>
+						<input type = "number" id = "num1" step="any" placeholder = "Ej: 25">
+					</div>
+
+					<div class = "grupo-formulario">
+						<label for = "num2">Grados Fahrenheit <span>(No editable)</span></label>
+						<input type = "number" id = "num2" step = "any" readonly>				
+					</div>
+				</div>
+
+				<button type = "button" class = "boton-enviar" onclick = "Convertir()"> 
+					Convertir <span> → </span>
+				</button>
+			</form>
+		</div>
+		
+		<footer>
+			<p style = "text-align: center; margin-top: 19px;"><em>© - David Efraín José Ramos</em></p>
+		</footer>
+	</body>
+</html>
