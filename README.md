@@ -23,7 +23,7 @@ En este ejerció aprendí a hacer tablas con etiquetas html y cree una por mi cu
 ### Ejercicio nueve - Formulario
 En este ejercicio se añadieron nuevos campos de texto y una manera mas rápida de modificar los colores de la pagina sin ir uno a uno. No entendí muy bien para que servía 
 '''
-link href = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel = "stylesheet"
+$ link href = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel = "stylesheet" $
 '''
 ### Ejercicio diez - Conversor de temperatura 
 Se me complico un poco buscar la forma que funcionara todo pero recicle la estructura del css del anterior ejercicio y quedo muy bien el diseño.
