@@ -16,7 +16,7 @@ Este fue sin lugar a duda mi favorito porque pude insertar el enlace a mi propio
 ### Ejercicio seis - Secciones semánticas básicas 
 En este no entendí muy bien lo que hacia pero básicamente subdivide en secciones la pagina. Las subdivisiones son: cabecera, contenido y pie de pagina.
 ### Ejercicio siete - Listas anidadas más enlaces
-Aquí aprendí la diferencia entre las etiquetas <ol> y <ul> además de aprender a como anidar una lista.
+Aquí aprendí la diferencia entre las etiquetas '<ol>' y '<ul>' además de aprender a como anidar una lista.
 ### Ejercicio ocho - Horario de clases
 En este ejerció aprendí a hacer tablas con etiquetas html y cree una por mi cuenta donde añadí una imagen.
 ### Index.html
