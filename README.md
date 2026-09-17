@@ -28,6 +28,14 @@ En este ejercicio se añadieron nuevos campos de texto y una manera mas rápida 
 ```
 ### Ejercicio diez - Conversor de temperatura 
 Se me complico un poco buscar la forma que funcionara todo pero recicle la estructura del css del anterior ejercicio y quedo muy bien el diseño.
+### Ejercicio once - Kilómetros a millas
+Misma estructura que el anterior ejercicio solo que ahora debía modificar el js con nuevos if.
+### Ejercicio doce - Pesos a dólares estadounidenses 
+En este ejercicio tuve que poner la restricción de que no pasaran números inferiores al cero.
+### Ejercicio trece - Verificador de edad 
+Aquí fue más de condiciones con if.
+### Ejercicio catorce - Mayor, menor y promedio
+En este ejercicio tuve que dividir la parte inferior de la interfaz en tres partes iguales desde el css.
 ### Index.html
 Aquí se añadió el índice donde se puede ubicar enlistados todos los ejercicios realizados.
 #### Elaborado por: David Efraín José Ramos
