@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang = "es">
+	<head>
+		<meta charset = "UTF-8">
+		<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+		<title>
+			Ejercicio quince - Promedio, menor y promedio
+		</title>
+		<link rel = "stylesheet" href = "css/ejercicio15.css">
+		<script src = "js/ejercicio14.js"></script>
+		<link href = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel = "stylesheet"> <!--Tengo la duda de que hace esta api-->
+	</head>
+	<body>
+		<div class = "contenedor-formulario">
+			<h1>Mayor, menor y promedio</h1>
+			<p class = "subtitulo">Asegurate que el campo de texto no este vacio y que los números estén separados por comas.</p>
+			<form class = "formulario">
+
+				<div class = "grupo-formulario"> 
+					<label for = "numeros">Ingresa los números:</label>
+					<input type = "text" id = "numeros" placeholder = "Ej: 10, 20, 30, 40, 50">
+				</div>
+
+				<div class = "grupo-triple">
+					<div class = "grupo-formulario" style = "margin-top: 20px;">
+						<label for = "maximo">Promedio</label>
+						<input type = "number" id = "maximo" readonly>
+					</div>
+
+					<div class = "grupo-formulario1">
+						<label for = "minimo">Alumno con la calificación más alta:</label>
+						<input type = "number" id = "minimo" readonly>				
+					</div>
+
+					<div class = "grupo-formulario1">
+						<label for = "promedio">Alumno con la calificación más baja:</span></label>
+						<input type = "number" id = "promedio" readonly>				
+					</div>
+				</div>
+
+				<button type = "button" class = "boton-enviar" onclick = "Calcular()"> 
+					Calcular <span> ⇒</span>
+				</button>
+			</form>
+		</div>
+		
+		<footer>
+			<p style = "text-align: center; margin-top: 19px;"><em>© - David Efraín José Ramos</em></p>
+		</footer>
+	</body>
+</html>
