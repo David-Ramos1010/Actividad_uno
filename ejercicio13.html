@@ -4,32 +4,32 @@
 		<meta charset = "UTF-8">
 		<meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
 		<title>
-			Ejercicio doce - MXN a USD
+			Ejercicio trece - Verificador de edad
 		</title>
-		<link rel = "stylesheet" href = "css/ejercicio12.css">
-		<script src = "js/ejercicio12.js"></script>
+		<link rel = "stylesheet" href = "css/ejercicio13.css">
+		<script src = "js/ejercicio13.js"></script>
 		<link href = "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel = "stylesheet"> <!--Tengo la duda de que hace esta api-->
 	</head>
 	<body>
 		<div class = "contenedor-formulario">
-			<h1>Convertidor de pesos mexicanos a dólares estadounidenses</h1>
-			<p class = "subtitulo">Asegurate que el campo de texto no este vacio y que el valor ingresado sea positivo.</p>
+			<h1>Verificador de edad para votar</h1>
+			<p class = "subtitulo">Asegurate que el campo de texto no este vacio y que el valor ingresado sea mayor a cero.</p>
 			<form class = "formulario">
 
 				<div class = "grupo-doble">
 					<div class = "grupo-formulario">
-						<label for = "num1">Pesos mexicanos</label>
-						<input type = "number" id = "num1" step="any" placeholder = "Ej: 500">
+						<label for = "num1">Introduce tu edad</label>
+						<input type = "number" id = "num1" placeholder = "Ej: 20">
 					</div>
 
 					<div class = "grupo-formulario">
-						<label for = "num2">Dólares estadounidenses <span>(No editable)</span></label>
-						<input type = "number" id = "num2" step = "any" readonly>				
+						<label for = "num2">Verificador de edad <span>(No editable)</span></label>
+						<input type = "text" id = "num2" readonly>				
 					</div>
 				</div>
 
-				<button type = "button" class = "boton-enviar" onclick = "Convertir()"> 
-					Convertir <span> → </span>
+				<button type = "button" class = "boton-enviar" onclick = "Verificar()"> 
+					Verificar <span>⇒</span>
 				</button>
 			</form>
 		</div>
